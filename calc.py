@@ -25,9 +25,7 @@ window.geometry("600x650")
 window.minsize(600,650)
 window.maxsize(600,650)
 window.config(bg="yellow")    #you can choose any color 
-window.title("Calculator by Simplified learner ")
-icon = PhotoImage(file ='E:\Ashutosh Mishra\YouTube Uploads\YouTube Thumbnails\Icon_2.png')
-window.iconphoto(False, icon)
+window.title("Calculator by Levathi4n ")
 
 scvalue = StringVar()
 scvalue.set("")
